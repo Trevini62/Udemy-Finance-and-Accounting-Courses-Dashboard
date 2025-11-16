@@ -2,6 +2,7 @@
 🚀 Project: Udemy Finance & Accounting Courses Dashboard (Power BI)
 
 The dashboard highlights key insights such as enrollment trends, revenue drivers, instructor performance, and the impact of discounts on sales. It provides a clear, visual story of how pricing, ratings, and course quality influence learner behavior.
+This dashboard transforms raw course data into meaningful insights, helping identify what drives learner engagement and which pricing strategies deliver maximum value.
 
 🔍 Key Insights Uncovered
 
