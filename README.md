@@ -34,4 +34,4 @@ Crafting DAX calculations for custom metrics
 
 Building interactive, user-friendly dashboards
 
-Presenting insights effectively through visual storytelling
+Presenting insights effectively through visual storytelling.
